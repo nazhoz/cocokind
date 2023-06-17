@@ -412,6 +412,9 @@
         height: 25vh;
         
     }
+    .nav-main{
+        width: 90%;
+    }
     .nav-head{
         margin-right: 2rem;
     }
@@ -444,7 +447,7 @@
         margin-top: 1rem;;
     }
     .body-img{
-        width: 370px;
+        width: 340px;
         height: 500px;
     }
     .body-para{
@@ -452,9 +455,10 @@
     }
     .mainbox{
         margin-top: 5rem;
+        width: 90%;
     }
     .box-content{
-        margin-right: 2rem;
+        width: 70%;
     }
     .box-pic{
         width: 40px;
@@ -463,15 +467,12 @@
     .box-tex{
         font-size: 10px;
     }
-    .text-box{
-        margin-left: rem;
-    }
     .box-all{
         width: 100%;
     }
     .item-main{
         margin-top: 35rem;
-        width: 100%;
+        width: 90%;
     }
     .item-imgs{
         display: flex;
@@ -490,54 +491,59 @@
     }
     .mainbox-set{
         display: flex;
-        height: 200vh;
+        height: 250vh;
+        width: 90%;
     }
     .box-set{
         display: flex;
         flex-direction: column;
         justify-content: space-around;
         align-items: center;
-        width: 100%;
-        margin-right: 4rem;
+        width: 95%;
+        margin-right: 2rem;
     }
     .boxes{
         width: 80%;
-        height: 70vh;
+        height: 80vh;
     }
     .boximg-size{
         width: 300px;
         height: 200px;
     }
     .box-text{
-        margin-right: 3rem;
+
         font-size: 25px;
     }
+    .box-cart{
+        font-size: 13px;
+        height: 50px;
+    }
     .quiz-box-size{
-        width: 150px;
+        width: 90%;
     }
     .quiz-box{
-        margin-right: 2rem;
+        margin-right: 3rem;
         width: 80%;
     }
     .quiz-box-btn{
         width: 100px;
-        font-size: 10px;
+        font-size: 8px;
+        height: 30px;
     }
 
     .quiz-box-para{
-        width: 35%;
-        height: 15vh;
-        margin-top: 7rem;
+        width: 100%;
     }
     .text-quiz{
-        font-size: 20px;
+        font-size: 25px;
     }
     .q-text{
-        display: none;
+        font-size: 13px;
     }
     .request-box{
         width: 300px;
         margin-left: 1rem;
+        height: 30vh;
 
     }
     .req-box{
@@ -563,16 +569,17 @@
     .req-help{
         width: 90%;
         height: 300px;
-        margin-top: 2rem;
+        margin-top:1rem;
         display: flex;
         flex-direction: column;
+        font-size: 13px;
     }
     .reqe{
         font-size: 12px;
     }
     .request-help{
         display: flex;
-        justify-content: center;
+        justify-content: space-between;
         align-items: center;
         
     }
@@ -585,7 +592,7 @@
         margin-top: 2rem;
     }
     .req-text1{
-
+        font-size: 20px;
     }
     .req-text2{
 
