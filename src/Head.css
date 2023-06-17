@@ -582,8 +582,10 @@
     font-size: 13px;
    }
    .req-media{
-    background-color: aqua;
     margin-left: 0;
+    width: 100%;
+   }
+   .req-end{
     width: 100%;
    }
  
